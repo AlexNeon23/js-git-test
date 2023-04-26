@@ -1,0 +1,9 @@
+.back{
+    background: radial-gradient(
+    farthest-corner at 50% 50%,
+    darkorchid 50%,
+    darkcyan 100%
+
+    );
+    background-color: Dar;
+}
